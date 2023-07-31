@@ -46,6 +46,12 @@ Program to find the LU Decomposition of a matrix.
 Developed by: Karthick Raja K
 RegisterNumber: 23006120
 */
+import numpy as np
+from scipy linalg.import lu
+p,l,u=lu(a)
+print(l)
+print(u)
+
 ```
 
 ## Output:
