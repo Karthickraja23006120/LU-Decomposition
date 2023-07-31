@@ -55,8 +55,7 @@ print(u)
 ```
 
 ## Output:
-![lu decomposition](/Screenshot%202023-07-25%20193439.png)
-![lu decomposition](/Screenshot%202023-07-25%20193528.png)
+![lu decomposition](/Screenshot%202023-07-31%20182759.png)
 
 
 ## Result:
